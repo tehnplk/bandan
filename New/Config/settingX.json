@@ -1,0 +1,34 @@
+{
+  "ComBarcode": {
+    "PortName": "COM4",
+    "BaudRate": 2400,
+    "Parity": 0,
+    "DataBits": 8,
+    "StopBits": 1
+  },
+  "ComBP": {
+    "PortName": "COM9",
+    "BaudRate": 2400,
+    "Parity": 0,
+    "DataBits": 8,
+    "weight": null,
+    "BP_Brand": "OMRON",
+    "IS_BDW": 0
+  },
+  "API": {
+    "URL": "http://localhost/p_queue/p_sync/"
+  },
+  "TMP": {
+    "TMP": 0
+  },
+  "WAIT_RESULT": {
+    "TIME": 60.0
+  },
+  "SHOW_RESULT": {
+    "TIME": 10.0
+  },
+  "LIMIT_BP": {
+    "SBP": 130,
+    "DBP": 90
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "ComBarcode": {
+    "PortName": "COM4",
+    "BaudRate": 2400,
+    "Parity": 0,
+    "DataBits": 8,
+    "StopBits": 1
+  },
+  "ComBP": {
+    "PortName": "/dev/ttyUSB0",
+    "BaudRate": 4800,
+    "Parity": 0,
+    "DataBits": 8,
+    "weight": null,
+    "BP_Brand": "OMRON",
+    "IS_BDW": 1
+  },
+  "API": {
+    "URL": "http://192.168.1.191:81/p_queue/"
+  },
+  "TMP": {
+    "TMP": 0
+  },
+  "WAIT_RESULT": {
+    "TIME": 10.0
+  }
+}

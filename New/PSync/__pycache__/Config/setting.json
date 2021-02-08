@@ -1,0 +1,24 @@
+{
+  "ComBarcode": {
+    "PortName": "COM4",
+    "BaudRate": 2400,
+    "Parity": 0,
+    "DataBits": 8,
+    "StopBits": 1
+  },
+  "ComBP": {
+    "PortName": "/dev/ttyUSB0",
+    "BaudRate": 4800,
+    "Parity": 0,
+    "DataBits": 8,
+    "weight": null,
+    "BP_Brand": "",
+    "IS_BDW": 1
+  },
+  "API": {
+    "URL": "http://192.168.0.9/p_sync/"
+  },
+  "TMP": {
+    "TMP": 0
+  }
+}
